@@ -21,7 +21,7 @@ declare namespace Cypress {
     BTPN(): Chainable<any>
     portofolio(): Chainable<any>
     ourQuality(): Chainable<any>
-    xxx(): Chainable<any>
+    goBack(): Chainable<any>
     xxx(): Chainable<any>
     xxx(): Chainable<any>
     xxx(): Chainable<any>
